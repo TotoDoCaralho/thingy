@@ -17,6 +17,8 @@ h1.fixed{
 font-family: europa;
 padding-top: 24px;
 color: lightblue;
+margin: 0;
+margin-left: .25em;
 }
 
 
